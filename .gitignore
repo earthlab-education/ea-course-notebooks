@@ -1,0 +1,8 @@
+# Jupyer
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# pycharm files
+.idea/
