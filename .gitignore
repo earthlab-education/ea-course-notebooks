@@ -1,4 +1,7 @@
-# Jupyer
+# Don't upload filled in notebooks
+*in-class-notebooks*
+
+# Jupyter
 .ipynb_checkpoints/
 
 # OS
