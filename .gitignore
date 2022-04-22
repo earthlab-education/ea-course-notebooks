@@ -6,3 +6,6 @@
 
 # pycharm files
 .idea/
+
+# Cache
+*__pycache__*
