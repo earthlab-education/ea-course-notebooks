@@ -9,3 +9,6 @@
 
 # Cache
 *__pycache__*
+
+# Dask
+*dask_worker_space*
