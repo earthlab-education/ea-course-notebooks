@@ -12,3 +12,6 @@
 
 # Dask
 *dask_worker_space*
+
+# Large data files
+data/*
