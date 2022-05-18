@@ -11,7 +11,7 @@
 *__pycache__*
 
 # Dask
-*dask_worker_space*
+*dask-worker-space*
 
 # Large data files
 data/*
