@@ -1,0 +1,52 @@
+name: ea-h5py
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8
+  - pip
+  # Core scientific python
+  - numpy
+  - pyqt
+  - tqdm
+  - kiwisolver
+  
+  # Plotting
+  - matplotlib
+  - plotly
+  - seaborn
+
+  # Spatial packages
+  - pysal
+  - pyproj>=3.0
+  - rasterstats
+  - geopy
+  - cartopy
+  - descartes
+  - contextily
+  - earthpy
+  - folium
+  - geojson
+  - mapboxgl
+  - hydrofunctions
+  - geocoder
+  - tweepy
+  - xarray
+  - rioxarray>=0.3.0
+  - h5py>2.9.0
+  - h5netcdf>0.7
+  - scipy
+  - netcdf4
+  - nc-time-axis
+  - regionmask
+
+  # Jupyter Environment
+  - papermill
+  - autopep8
+  - jupyterlab
+  - notebook
+  - ipython
+  - jupyter_contrib_nbextensions
+  - nbclean
+  - nbresuse
